@@ -1,5 +1,5 @@
 ### Hello there
-I'm Emiliano Maccaferri and I'm a 23y/o freelance fullstack web developer from Italy.<br>
+I'm Emiliano Maccaferri and I'm a 24y/o freelance fullstack web developer from Italy.<br>
 I mainly focus on backend but I'm constantly striving to get the best UIs I can when working with clients.<br>
 <br>
 When not working or wrapping my head around projects I often travel and/or buy unnecessarily expensive clothes.<br>
