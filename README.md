@@ -1,5 +1,5 @@
 ### Hello there
-I'm Emiliano Maccaferri, a 24y/o network researcher at Unimore.<br>
+I'm Emiliano Maccaferri, a 24y/o research fellow at Unimore.<br>
 <br>
 When not working or wrapping my head around projects I often travel and/or buy unnecessarily expensive clothes.<br>
 I occasionally <a href="https://youtube.com/c/MaccaBeats">make music</a>
