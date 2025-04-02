@@ -1,6 +1,6 @@
 ### Hello there
 - Emiliano Maccaferri
-- 25y/o, 
+- 25y/o
 - Bologna, Italy
 <br>
 When not working or wrapping my head around projects I often travel and/or buy unnecessarily expensive clothes.<br>
