@@ -1,5 +1,7 @@
 ### Hello there
-I'm Emiliano Maccaferri, a 25y/o person from Bologna, Italy<br>
+- Emiliano Maccaferri
+- 25y/o, 
+- Bologna, Italy
 <br>
 When not working or wrapping my head around projects I often travel and/or buy unnecessarily expensive clothes.<br>
 I occasionally <a href="https://youtube.com/c/MaccaBeats">make music</a>
